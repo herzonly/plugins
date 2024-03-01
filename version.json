@@ -1,0 +1,13 @@
+{
+	"creator": " Naaazzzzz", 
+	"contact": " wa.me/6282139672290", 
+	"path":"plugins", 
+	"plugins": {
+		"tools-obfuscator": "1.0.0", 
+		"tools-remini": "1.0.0", 
+		"tools-poll": "1.0.0", 
+		"tools-modify": "1.0.0", 
+		"ai-simsimi": "1.0.0", 
+		"ai-lexica": "1.0.0"
+		}
+	}
