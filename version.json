@@ -10,6 +10,7 @@
 		"tools-poll": "1.0.0", 
 		"tools-modify": "1.0.0", 
 		"ai-simsimi": "1.0.0", 
-		"ai-lexica": "1.0.0"
+		"ai-lexica": "1.0.0", 
+		"ai-text2img": "1.0.0"
 		}
 	}
